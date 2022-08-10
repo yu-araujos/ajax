@@ -1,0 +1,2 @@
+Módulo sobre Ajax no curso de Web Moderno da COD3R, na qual aprendemos como a técnica funciona a partir do xmlHttpRequest, fetch (com promises/async e await),
+axios e também ajax com jquery. Nesse módulo também utilizamos Nodejs para a criação do server
